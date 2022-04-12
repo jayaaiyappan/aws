@@ -1,1 +1,0 @@
-select * from crhs_staging.stg_blog_posts
